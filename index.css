@@ -23,6 +23,7 @@ body {
   background-color: #262626;
   padding: 20px;
   border-radius: 10px;
+  box-shadow: black 0px 10px 25px;
 }
 
 .calculator form input {
