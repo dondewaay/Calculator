@@ -32,8 +32,9 @@ body {
   width: 60px;
   height: 60px;
   border-radius: 10px;
-  box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.2),
-    5px 5px 15px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(145deg, #222222, #292929);
+  box-shadow:  6px 6px 13px #1b1b1b,
+               -6px -6px 13px #313131;
   background: transparent;
   font-size: 20px;
   color: white;
