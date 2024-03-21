@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(./assets/Aurora\ -\ 48.png);
+  background-image: url(./assets/Aurora.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -33,8 +33,7 @@ body {
   height: 60px;
   border-radius: 10px;
   background: linear-gradient(145deg, #222222, #292929);
-  box-shadow:  6px 6px 13px #1b1b1b,
-               -6px -6px 13px #313131;
+  box-shadow: 6px 6px 13px #1b1b1b, -6px -6px 13px #313131;
   background: transparent;
   font-size: 20px;
   color: white;
